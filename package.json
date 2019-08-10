@@ -1,0 +1,37 @@
+{
+    "name": "tslint-config-piecioshka",
+    "version": "1.0.0",
+    "description": "TSLint configuration of my style",
+    "license": "MIT",
+    "author": {
+        "name": "Piotr Kowalski",
+        "email": "piecioshka@gmail.com",
+        "url": "https://piecioshka.pl"
+    },
+    "keywords": [
+        "tslint",
+        "eslint",
+        "jshint",
+        "lint",
+        "javascript",
+        "typescript",
+        "code",
+        "quality",
+        "checker",
+        "style",
+        "guide",
+        "settings",
+        "default",
+        "project",
+        "global"
+    ],
+    "files": [
+        "index.js",
+        "package.json",
+        "README.md"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "http://github.com/piecioshka/tslint-config-piecioshka.git"
+    }
+}
