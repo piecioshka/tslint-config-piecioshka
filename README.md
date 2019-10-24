@@ -3,23 +3,42 @@
 [![npm version](https://badge.fury.io/js/tslint-config-piecioshka.svg)](https://badge.fury.io/js/tslint-config-piecioshka)
 [![downloads count](https://img.shields.io/npm/dt/tslint-config-piecioshka.svg)](https://www.npmjs.com/~piecioshka)
 
-TSLint configuration of my style.
+🔨 TSLint configuration of my style.
 
 ## Install
 
 ```bash
-npm install tslint-config-piecioshka
+npm install -D tslint-config-piecioshka
 ```
 
 ## Usage
 
-Add `extends` key into `tslint.json`:
+* `tslint.json`:
 
-```json
-{
-    "extends": "tslint-config-piecioshka"
-}
-```
+    ```json
+    {
+        "extends": "tslint-config-piecioshka"
+    }
+    ```
+
+    or
+
+    ```json
+    {
+        "extends": [
+            "tslint:recommended",
+            "tslint-config-piecioshka"
+        ]
+    }
+    ```
+
+* `package.json`
+
+    ```json
+    "scripts": {
+        "lint": "tslint -p ."
+    },
+    ```
 
 ## Disclaimer
 
