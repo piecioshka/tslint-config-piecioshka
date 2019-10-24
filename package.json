@@ -3,6 +3,9 @@
     "version": "0.0.1",
     "description": "TSLint configuration of my style",
     "license": "MIT",
+    "scripts": {
+        "postversion": "git push --tags"
+    },
     "author": {
         "name": "Piotr Kowalski",
         "email": "piecioshka@gmail.com",
