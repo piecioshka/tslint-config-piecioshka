@@ -20,9 +20,12 @@ module.exports = {
             "method": "never",
             "named": "never",
         }],
+        "quotemark": [true, "single"],
+
+        // Disabled rules
         "no-var-requires": false,
         "no-console": false,
         "trailing-comma": false,
-        "quotemark": [true, "single"]
+        "object-literal-sort-keys": false
     }
 };
