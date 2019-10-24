@@ -25,7 +25,7 @@ Add `extends` key into `tslint.json`:
 
 <mark>[2019-08-09]</mark>
 
-Yes, I know, that TSLint is deprecated. But for now it a long term plan.<br/>
+Yes, I know, that TSLint is [deprecated]. But for now it a long term plan.<br/>
 If you would like to use own config you can **Fork** that repo to create
 your configuration to share across TypeScript projects.
 
@@ -45,3 +45,5 @@ Give a ⭐️ if this project helped you!
 ## License
 
 [The MIT License](http://piecioshka.mit-license.org) @ 2019
+
+[deprecated]: https://github.com/palantir/tslint/issues/4534
