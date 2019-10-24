@@ -1,6 +1,6 @@
 {
     "name": "tslint-config-piecioshka",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "TSLint configuration of my style",
     "license": "MIT",
     "scripts": {
