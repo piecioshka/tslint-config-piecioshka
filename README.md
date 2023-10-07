@@ -5,6 +5,8 @@
 
 🔨 TSLint configuration of my style.
 
+> Give a ⭐️ if this project helped you!
+
 ## Install
 
 ```bash
@@ -52,10 +54,6 @@ your configuration to share across TypeScript projects.
 
 Contributions, issues and feature requests are welcome!<br />
 Feel free to check [issues page](https://github.com/piecioshka/tslint-config-piecioshka/issues/).
-
-## Show your support
-
-Give a ⭐️ if this project helped you!
 
 ## Related
 
