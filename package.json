@@ -35,6 +35,6 @@
     ],
     "repository": {
         "type": "git",
-        "url": "http://github.com/piecioshka/tslint-config-piecioshka.git"
+        "url": "git@github.com:piecioshka/tslint-config-piecioshka.git"
     }
 }

@@ -1,7 +1,9 @@
 # tslint-config-piecioshka
 
+[![node version](https://img.shields.io/node/v/tslint-config-piecioshka.svg)](https://www.npmjs.com/package/tslint-config-piecioshka)
 [![npm version](https://badge.fury.io/js/tslint-config-piecioshka.svg)](https://badge.fury.io/js/tslint-config-piecioshka)
 [![downloads count](https://img.shields.io/npm/dt/tslint-config-piecioshka.svg)](https://www.npmjs.com/~piecioshka)
+[![license](https://img.shields.io/npm/l/tslint-config-piecioshka.svg)](https://www.npmjs.com/package/tslint-config-piecioshka)
 
 🔨 TSLint configuration of my style.
 
