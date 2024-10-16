@@ -1,10 +1,10 @@
 {
     "name": "tslint-config-piecioshka",
     "version": "0.0.4",
-    "description": "TSLint configuration of my style",
+    "description": "🔨 TSLint configuration of my style",
     "license": "MIT",
     "scripts": {
-        "postversion": "git push --tags"
+        "test": "echo \"Error: no test specified\" && exit 1"
     },
     "author": {
         "name": "Piotr Kowalski",

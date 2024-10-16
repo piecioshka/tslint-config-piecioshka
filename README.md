@@ -12,7 +12,7 @@
 ## Install
 
 ```bash
-npm install -D tslint-config-piecioshka
+npm install tslint-config-piecioshka
 ```
 
 ## Usage
