@@ -10,15 +10,15 @@
 
 > Give a ⭐️ if this project helped you!
 
-## Install
-
-```bash
-npm install tslint-config-piecioshka
-```
-
 ## Usage
 
-* `tslint.json`:
+Installation:
+
+```bash
+npm install -D tslint-config-piecioshka
+```
+
+- `tslint.json`:
 
     ```json
     {
@@ -37,7 +37,7 @@ npm install tslint-config-piecioshka
     }
     ```
 
-* `package.json`
+- `package.json`
 
     ```json
     "scripts": {
@@ -49,7 +49,7 @@ npm install tslint-config-piecioshka
 
 <mark>[2019-08-09]</mark>
 
-Yes, I know, that TSLint is [deprecated]. But for now it a long term plan.<br/>
+Yes, I know, that TSLint is [deprecated](https://github.com/palantir/tslint/issues/4534). But for now it a long term plan.<br/>
 If you would like to use own config you can **Fork** that repo to create
 your configuration to share across TypeScript projects.
 
@@ -60,10 +60,8 @@ Feel free to check [issues page](https://github.com/piecioshka/tslint-config-pie
 
 ## Related
 
-* [eslint-config-piecioshka](https://github.com/piecioshka/eslint-config-piecioshka)
+- [eslint-config-piecioshka](https://github.com/piecioshka/eslint-config-piecioshka)
 
 ## License
 
 [The MIT License](https://piecioshka.mit-license.org) @ 2019
-
-[deprecated]: https://github.com/palantir/tslint/issues/4534
