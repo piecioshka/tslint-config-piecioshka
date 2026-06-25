@@ -64,4 +64,4 @@ Feel free to check [issues page](https://github.com/piecioshka/tslint-config-pie
 
 ## License
 
-[The MIT License](https://piecioshka.mit-license.org) @ 2019
+[The MIT License](http://piecioshka.mit-license.org) @ 2026

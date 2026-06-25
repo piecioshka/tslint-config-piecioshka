@@ -31,7 +31,8 @@
     "files": [
         "index.js",
         "package.json",
-        "README.md"
+        "README.md",
+        "LICENSE"
     ],
     "repository": {
         "type": "git",
